@@ -1,2 +1,4 @@
 # EjerciciosP1_PDS_VelascoMontenegroAnaMaria
-Ejercicios para el parcial 1 de procesamiento digital de señales
+
+Nombre: Ana María Velasco Montenegro
+Cédula: 1152712240
